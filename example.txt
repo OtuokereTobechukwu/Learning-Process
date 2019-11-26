@@ -1,0 +1,2 @@
+This is a file i want to access in python
+for now i am going to just read it.
